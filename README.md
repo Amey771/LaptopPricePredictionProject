@@ -13,7 +13,4 @@ This repository contains code and documentation for predicting laptop prices bas
 
 ---
 
-## Related Project Materials
-### Links to Decks:
-- **20241119**: 
 
