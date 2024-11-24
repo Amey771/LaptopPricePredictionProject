@@ -4,7 +4,7 @@
 **Amey Suresh Borkar**  
 Email: ameysuresh.borkar@pace.edu  
 
-**Status**: Completeed
+**Status**: Completed
 
 ---
 
